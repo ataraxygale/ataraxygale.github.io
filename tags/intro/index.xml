@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Intro on Alchemy Tech Forge</title><link>https://alchemytechforge.com/tags/intro/</link><description>Recent content in Intro on Alchemy Tech Forge</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 09 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://alchemytechforge.com/tags/intro/index.xml" rel="self" type="application/rss+xml"/><item><title>Hello World!</title><link>https://alchemytechforge.com/p/hello-world/</link><pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate><guid>https://alchemytechforge.com/p/hello-world/</guid><description>&lt;img src="https://alchemytechforge.com/p/hello-world/cover.jpg" alt="Featured image of post Hello World!" />&lt;p>I will be listing my adventures here.&lt;/p>
+&lt;p>&lt;img src="https://alchemytechforge.com/p/hello-world/lotrAdventure.jpg"
+width="255"
+height="198"
+srcset="https://alchemytechforge.com/p/hello-world/lotrAdventure_hu_3d49ddb196bf09ee.jpg 480w, https://alchemytechforge.com/p/hello-world/lotrAdventure_hu_d82745cccbc5062d.jpg 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="128"
+data-flex-basis="309px"
+>&lt;/p>
+&lt;p>Want a site like this? Check out &lt;a class="link" href="https://github.com/CaiJimmy/hugo-theme-stack-starter" target="_blank" rel="noopener"
+>hugo-theme-stack-stater&lt;/a>&lt;/p>
+&lt;!--Photo by [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski) on [Unsplash](https://unsplash.com/)--></description></item></channel></rss>
